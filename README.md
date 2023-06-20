@@ -12,7 +12,6 @@ h91820h.zip
 **Recoveries**
 
 [H918_V2.3-BETA1-mk2000](https://github.com/breadland/h918/releases/download/Recoveries/H918_v2.3-BETA1-mk2000.zip)
-
 Was only available through telegram iirc, can't find it on XDA. Only for the stock Oreo ROM by the way.
 
 
