@@ -11,7 +11,7 @@ Rehosted thanks to FeNo2 from XDA willing to upload their backup. It's a stock O
 [Mirror here](https://drive.google.com/file/d/1IdvTrxHrqj7DP19PKdko2-98pB3kARpG/view?usp=drive_link)
 
 
-**Recoveries**
+*** **Recoveries** ***
 
 [H918_V2.3-BETA1-mk2000](https://github.com/breadland/h918/releases/download/Recoveries/H918_v2.3-BETA1-mk2000.zip)
 Was only available through telegram iirc, can't find it on XDA. Only for the stock Oreo ROM by the way.
@@ -20,3 +20,11 @@ Was only available through telegram iirc, can't find it on XDA. Only for the sto
 
 [H198_v2.2-PHXCLANG2-rebuild-mk2000](https://github.com/breadland/h918/releases/download/Recoveries/H918_v2.2-PHXCLANG2-rebuild-mk2000.zip)
 Only for the stock Oreo ROM.
+
+
+*** **Magisk** ***
+[Magisk-24.3.zip](https://drive.google.com/file/d/1z1FMH6JTeM7AJht9IQz-L67QvQk05G0d/view?usp=drive_link)
+Latest version to be compatible with Stck Oreo ROMs (8.0)
+Just rename to .apk if you don't need to flash it through TWRP
+
+[Maisk-21.4.zip](https://drive.google.com/file/d/1FA46NRn0EKK5K2vzu_-wJiMXZ8thSeiF/view?usp=drive_link)
