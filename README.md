@@ -8,7 +8,6 @@ Will link to the rest.
 
 [h91820h.zip](https://www.mediafire.com/file/1582qcg5ny3whn4/H91820h.zip/file)
 Rehosted thanks to FeNo2 from XDA willing to upload their backup. It's a stock Oreo ROM that can be flashed through TWRP and won't relock your bootloader.
-
 [Mirror here](https://drive.google.com/file/d/1IdvTrxHrqj7DP19PKdko2-98pB3kARpG/view?usp=drive_link)
 
 
