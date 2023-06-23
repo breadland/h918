@@ -23,6 +23,7 @@ Only for the stock Oreo ROM.
 
 
 *** **Magisk** ***
+
 [Magisk-24.3.zip](https://drive.google.com/file/d/1z1FMH6JTeM7AJht9IQz-L67QvQk05G0d/view?usp=drive_link)
 Latest version to be compatible with Stck Oreo ROMs (8.0)
 Just rename to .apk if you don't need to flash it through TWRP
