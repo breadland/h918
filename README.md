@@ -28,4 +28,4 @@ Only for the stock Oreo ROM.
 Latest version to be compatible with Stck Oreo ROMs (8.0)
 Just rename to .apk if you don't need to flash it through TWRP
 
-[Maisk-21.4.zip](https://drive.google.com/file/d/1FA46NRn0EKK5K2vzu_-wJiMXZ8thSeiF/view?usp=drive_link)
+[Magisk-21.4.zip](https://drive.google.com/file/d/1FA46NRn0EKK5K2vzu_-wJiMXZ8thSeiF/view?usp=drive_link)
